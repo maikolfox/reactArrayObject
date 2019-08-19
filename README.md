@@ -1,2 +1,0 @@
-# reactArrayObject
-Created with CodeSandbox
